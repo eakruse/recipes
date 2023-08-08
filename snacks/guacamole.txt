@@ -5,6 +5,7 @@ ingredients:
 -salt
 -lime
 -tomatoes
+-jalapenos
 
 instructions:
 1. mash avocados
